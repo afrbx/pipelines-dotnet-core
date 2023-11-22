@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/renatorgomes/Azure%20Pipelines/_apis/build/status%2Fafrbx.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/renatorgomes/Azure%20Pipelines/_build/latest?definitionId=112&branchName=master)
+[![Build Status](https://dev.azure.com/renatorgomes/Azure%20Pipelines/_apis/build/status%2Fafrbx.pipelines-dotnet-core?branchName=users%2FGitHubPolicyService%2F9ee7cc31-8293-4e18-86c7-eadad1572b7e)](https://dev.azure.com/renatorgomes/Azure%20Pipelines/_build/latest?definitionId=112&branchName=users%2FGitHubPolicyService%2F9ee7cc31-8293-4e18-86c7-eadad1572b7e)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
